@@ -5,6 +5,28 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <style>
+        h1{
+            text-align: center;
+        }
+
+        h4{
+            margin: 0;
+            padding: 5px;
+            background: #f4f4f4;
+        }
+
+        li{
+            list-style: none;
+            padding-left: 5px;
+        }
+
+        #container{
+            width: 600px;
+            margin: auto;
+            overflow: hidden;
+        }
+    </style>
     <title>My Movies</title>
 </head>
 <body>
